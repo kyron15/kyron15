@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyron15" alt="kyron15" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing (Just side projects I keep private)**
+- 🔭 Currently not working on anything. Keep an eye out though 👀
 
 - 👨‍💻 All of my projects are available at [https://github.com/kyron15?tab=repositories](https://github.com/kyron15?tab=repositories)
 
